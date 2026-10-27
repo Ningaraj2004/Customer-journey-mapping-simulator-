@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Large trained model files (re-generate with: python ml/train_models.py)
+ml/models/*.pkl
+
+# Raw dataset (too large for GitHub — download from Kaggle)
+*.csv
+!data_sample/sample_customers.csv
+
+# EDA output images
+ml/reports/*.png
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
