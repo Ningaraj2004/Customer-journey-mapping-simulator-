@@ -1,6 +1,10 @@
 # EcomML Studio v2
 ### eCommerce Behavior ML Dashboard · 2019-Oct Dataset
 
+## 🚀 Live Demo
+
+**[View Live Demo](https://customer-journey-mapping-simulator.netlify.app/)**
+
 ---
 
 ## What's Fixed in v2
